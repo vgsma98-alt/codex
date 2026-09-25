@@ -11,3 +11,16 @@
 | إضافة رواق أفلييت | [riwaq-affiliate-source.zip](riwaq-affiliate-source.zip) | شيفرة إضافة WordPress، الحزمة الجاهزة، ودليل الاستخدام |
 
 نزّل الحزمة المطلوبة وفك ضغطها على أي حاسوب. لا تتضمن الحزم كلمات مرور أو رموز بوت أو بيانات قواعد WordPress الحية. احتفظ لكل موقع بملف أسرار منفصل خارج GitHub.
+
+
+## أدلة الاستخدام والعمل مع الذكاء الاصطناعي
+
+افتح دليل المشروع قبل تعديل ملفاته. يشرح التثبيت وبنية الشيفرة والاختبارات وحدود الحزمة:
+
+- [وكيل WordPress عبر Telegram](guides/wordpress-telegram-agent/README.md)
+- [مطعم BLJLUX](guides/bljlux-restaurant/README.md)
+- [Atlas Drive Maroc](guides/atlas-drive/README.md)
+- [تطبيق LEADBOYACH](guides/leadboyach/README.md)
+- [رواق أفلييت](guides/riwaq-affiliate/README.md)
+
+للنماذج البرمجية: اقرأ [AGENTS.md](AGENTS.md) ثم دليل المشروع المعني. احتفظ بالملفات الحالية، ولا تحذف شيئاً دون موافقة المالك.
